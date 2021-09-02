@@ -1,0 +1,28 @@
+{
+  "name": "wetube",
+  "version": "1.0.0",
+  "description": "Studying nodejs",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WhyJYJ/wetube.git"
+  },
+  "scripts": {
+    "dev": "nodemon --exec babel-node src/server"
+  },
+  "author": "whyj_yj",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/WhyJYJ/wetube/issues"
+  },
+  "homepage": "https://github.com/WhyJYJ/wetube#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "@babel/core": "^7.14.6",
+    "@babel/node": "^7.14.7",
+    "@babel/preset-env": "^7.14.7",
+    "nodemon": "^2.0.7"
+  }
+}
