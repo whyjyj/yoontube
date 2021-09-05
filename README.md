@@ -1,8 +1,6 @@
 # Wetube
 ---
-#### https://wetube-xybnl.run.goorm.io
----
-### Routes
+## Routes
 / -> Home  
 /join -> Join  
 /login -> Login  
@@ -21,6 +19,6 @@
 ---
 
 
-#### 2021.09.02 - 2021.09.03
+### 2021.09.02 - 2021.09.03
 - Routes 설계
 - Controller & Router 틀
