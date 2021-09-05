@@ -22,3 +22,8 @@
 ### 2021.09.02 - 2021.09.03
 - Routes 설계
 - Controller & Router 틀
+
+---
+
+### 2021.09.04 - 2021.09.05
+- templates setup
