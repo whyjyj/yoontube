@@ -1,29 +1,19 @@
 # Wetube
 ---
-## Routes
-/ -> Home  
-/join -> Join  
-/login -> Login  
-/search -> Search  
-
-/users/:id -> See User  
-/users/logout -> Log Out  
-/users/edit -> Edit MY Profile  
-/users/delete -> Delete MY Profile  
-
-/videos/:id -> See Video  
-/videos/:id/edit -> Edit Video  
-/videos/:id/delete -> Delete Video  
-/videos/upload -> Upload Video  
-
----
+## Update log
 
 
 ### 2021.09.02 - 2021.09.03
 - Routes 설계
 - Controller & Router 틀
 
----
+
 
 ### 2021.09.04 - 2021.09.05
 - templates setup
+
+### 2021.09.10
+- GET/POST form Recap
+
+### 2021.09.11
+- Setting Mongo DB & Mongoose

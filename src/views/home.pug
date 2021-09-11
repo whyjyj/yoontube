@@ -7,7 +7,7 @@ block head
 block content
     h2 Welcome here you will see the trending videos
     ul
-        each vi in videos
-        +video(vi)
+        each video in videos
+        +video(video)
     else
         li Sorry nothing found. 
