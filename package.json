@@ -7,7 +7,7 @@
     "url": "git+https://github.com/WhyJYJ/wetube.git"
   },
   "scripts": {
-    "dev": "nodemon --exec babel-node src/server"
+    "dev": "nodemon --exec babel-node src/init.js"
   },
   "author": "whyj_yj",
   "license": "MIT",

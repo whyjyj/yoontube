@@ -1,5 +1,31 @@
 # Wetube
+
+## Implementation
+
+### Users
+* [ ] User Authentication
+* [ ] Facebook Login
+* [ ] Github Login
+* [ ] User Profile
+* [ ] Login
+* [ ] Logout
+
+### Videos
+* [ ] Video Upload
+* [ ] Video Recording
+* [ ] Search Video
+* [ ] AJAX Comments
+* [ ] View Count
+
+### Theory
+* [X] MVC
+* [X] Routing
+* [X] Templates
+* [ ] Models
+* [ ] Relationships
+
 ---
+
 ## Update log
 
 
