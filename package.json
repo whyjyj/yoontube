@@ -17,6 +17,7 @@
   "homepage": "https://github.com/WhyJYJ/wetube#readme",
   "dependencies": {
     "express": "^4.17.1",
+    "mongoose": "^6.0.5",
     "morgan": "^1.10.0",
     "pug": "^3.0.2"
   },
