@@ -46,3 +46,7 @@
 
 ### 2021.09.19
 - Home controller에 async 적용
+- Video CRUD - Create
+
+### 2021.09.20
+- Video CRUD - Read(Detail)
