@@ -1,4 +1,4 @@
-# Wetube
+# Yoontube
 
 ## Implementation
 
@@ -49,4 +49,5 @@
 - Video CRUD - Create
 
 ### 2021.09.20
-- Video CRUD - Read(Detail)
+- Video Detail
+- Video Edit
