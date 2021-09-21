@@ -50,4 +50,7 @@
 
 ### 2021.09.20
 - Video Detail
-- Video Edit
+- Video CRUD - Update(Edit)
+
+### 2021.09.21
+- Video CRUD - Delete
