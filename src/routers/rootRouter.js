@@ -9,4 +9,4 @@ globalRouter.get("/join", join);
 globalRouter.get("/login", login);
 globalRouter.get("/search", search);
 
-export default globalRouter;
+export default rootRouter;
