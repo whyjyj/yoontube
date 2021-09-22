@@ -13,7 +13,7 @@
 ### Videos
 * [ ] Video Upload
 * [ ] Video Recording
-* [ ] Search Video
+* [X] Search Video
 * [ ] AJAX Comments
 * [ ] View Count
 
@@ -21,7 +21,7 @@
 * [X] MVC
 * [X] Routing
 * [X] Templates
-* [ ] Models
+* [X] Models
 * [ ] Relationships
 
 ---
@@ -54,3 +54,8 @@
 
 ### 2021.09.21
 - Video CRUD - Delete
+
+### 2021.09.22
+- Video CRUD - Read(Search)
+- Create Account
+- Form Validation with status codes
