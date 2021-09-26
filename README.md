@@ -3,11 +3,11 @@
 ## Implementation
 
 ### Users
-* [ ] User Authentication
+* [X] User Authentication
 * [ ] Facebook Login
 * [ ] Github Login
 * [ ] User Profile
-* [ ] Login
+* [X] Login
 * [ ] Logout
 
 ### Videos
@@ -59,3 +59,7 @@
 - Video CRUD - Read(Search)
 - Create Account
 - Form Validation with status codes
+
+### 2021.09.24 - 2021.09.26
+- cookie, session
+- User Authentication
