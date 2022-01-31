@@ -10,7 +10,7 @@ import { home, search } from "../controllers/videoController";
 const rootRouter = express.Router();
 
 rootRouter.get("/", home);
-rootRouter.get("/join", join);
+rootRouter.get("/join", getJoin);
 rootRouter.route("/login").get(getLogin).post(postLogin);
 rootRouter.get("/search", search);
 
