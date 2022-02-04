@@ -9,7 +9,7 @@
 - [x] Github Login
 - [ ] User Profile
 - [x] Login
-- [ ] Logout
+- [x] Logout
 
 ### Videos
 
@@ -84,3 +84,7 @@
 ### 2022.02.01 - 2022.02.02
 
 - Github Login
+
+### 2022.02.04
+
+- Logout
