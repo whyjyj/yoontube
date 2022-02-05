@@ -7,7 +7,7 @@
 - [x] User Authentication
 - [ ] Facebook Login
 - [x] Github Login
-- [ ] User Profile
+- [x] User Profile
 - [x] Login
 - [x] Logout
 
@@ -88,3 +88,7 @@
 ### 2022.02.04
 
 - Logout
+
+### 2022.02.O5
+
+- Edit Profile
