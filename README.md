@@ -92,3 +92,7 @@
 ### 2022.02.O5
 
 - Edit Profile
+
+### 2022.02.06
+
+- Change Password
