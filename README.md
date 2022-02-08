@@ -96,3 +96,8 @@
 ### 2022.02.06
 
 - Change Password
+
+### 2022.02.07
+
+- File Upload
+- Static File Setting
