@@ -5,7 +5,6 @@
 ### Users
 
 - [x] User Authentication
-- [ ] Facebook Login
 - [x] Github Login
 - [x] User Profile
 - [x] Login
@@ -13,7 +12,7 @@
 
 ### Videos
 
-- [ ] Video Upload
+- [x] Video Upload
 - [ ] Video Recording
 - [x] Search Video
 - [ ] AJAX Comments
@@ -101,3 +100,7 @@
 
 - File Upload
 - Static File Setting
+
+### 2022.02.09
+
+- Video Upload
