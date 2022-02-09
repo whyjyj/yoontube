@@ -24,7 +24,7 @@
 - [x] Routing
 - [x] Templates
 - [x] Models
-- [ ] Relationships
+- [x] Relationships
 
 ---
 
@@ -105,3 +105,4 @@
 
 - Video Upload
 - User Profile
+- Relationships between User and Video
