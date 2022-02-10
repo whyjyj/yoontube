@@ -107,3 +107,7 @@
 - User Profile
 - Relationships between User and Video
 - Bugfix: Protect Edit Page, about "!==" operator
+
+### 2022.02.10
+
+- Webpack Configuration
