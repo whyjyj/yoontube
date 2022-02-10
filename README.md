@@ -111,3 +111,4 @@
 ### 2022.02.10
 
 - Webpack Configuration
+- Configuraiton for detecting changes on FrontEnd
