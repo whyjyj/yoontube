@@ -112,3 +112,8 @@
 
 - Webpack Configuration
 - Configuraiton for detecting changes on FrontEnd
+
+### 2022.02.11
+
+- Styles
+- Video/User Populate 적용: for Home, Detail View
