@@ -117,3 +117,4 @@
 
 - Styles
 - Video/User Populate 적용: for Home, Detail View
+- Video Player - play, pause
