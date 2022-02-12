@@ -121,4 +121,4 @@
 
 ### 2022.02.12
 
-- Video Player - volume, mute
+- Video Player - volume, mute, current/duration time
