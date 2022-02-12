@@ -121,4 +121,4 @@
 
 ### 2022.02.12
 
-- Video Player - volume, mute, current/duration time, timeline, full screen
+- Video Player - volume, mute, current/duration time, timeline, fullscreen, controls
