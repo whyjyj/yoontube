@@ -118,3 +118,7 @@
 - Styles
 - Video/User Populate 적용: for Home, Detail View
 - Video Player - play, pause
+
+### 2022.02.12
+
+- Video Player - volume, mute
