@@ -123,3 +123,7 @@
 
 - Video Player - volume, mute, current/duration time, timeline, fullscreen, controls
 - Video Player - styles
+
+### 2022.02.13
+
+- View(조회수) Controller
