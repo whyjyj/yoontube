@@ -127,3 +127,4 @@
 ### 2022.02.13
 
 - View(조회수) Controller
+- View(조회수) Event
