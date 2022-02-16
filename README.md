@@ -132,3 +132,7 @@
 ### 2022.02.14 - 2022.02.15
 
 - Comment(댓글)
+
+### 2022.02.16
+
+- Video metadata loading 지연으로 인한 bug fix

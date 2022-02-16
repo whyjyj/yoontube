@@ -17,6 +17,10 @@ let controlsMovementTimeout = null;
 let volumeValue = 0.5;
 video.volume = volumeValue;
 
+if (video.readyState == 4) {
+  handleLoadedMetadata();
+}
+
 const handlePlayClick = e => {
   if (video.paused) {
     video.play();
@@ -103,7 +107,7 @@ const handleMouseLeave = () => {
 const handleEnded = () => {
   const { id } = videoContainer.dataset;
   fetch(`/api/videos/${id}/view`, {
-    method: "POST",
+    method: "POST"
   });
 };
 
