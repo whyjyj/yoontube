@@ -17,10 +17,6 @@ let controlsMovementTimeout = null;
 let volumeValue = 0.5;
 video.volume = volumeValue;
 
-if (video.readyState == 4) {
-  handleLoadedMetadata();
-}
-
 const handlePlayClick = e => {
   if (video.paused) {
     video.play();
@@ -110,6 +106,10 @@ const handleEnded = () => {
     method: "POST"
   });
 };
+
+if (video.readyState == 4) {
+  handleLoadedMetadata();
+}
 
 playBtn.addEventListener("click", handlePlayClick);
 muteBtn.addEventListener("click", handleMuteClick);
