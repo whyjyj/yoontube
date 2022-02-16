@@ -137,4 +137,5 @@
 
 - Video metadata loading 지연으로 인한 bug fix
 - Flash Messages
-- Logout시 session destroy -> 유지로 변경 b/c flash message랑 충돌
+- Flash message, Logout시 session destroy 충돌 문제 해결(session.destroy -> null)
+- Video edit 적용 안 되던 bug fix(controller에서 video exist -> findbyId)
