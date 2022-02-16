@@ -48,7 +48,6 @@ export const postEdit = async (req, res) => {
     return res.status(404).render("404", { pageTitle: "Video not found." });
   }
   if (String(video.owner) !== String(_id)) {
-	console.log(String(video.owner), String(_id) );
     req.flash("error", "You are not the the owner of the video.");
     return res.status(403).redirect("/");
   }
@@ -149,5 +148,6 @@ export const createComment = async (req, res) => {
   });
   video.comments.push(comment._id);
   video.save();
+  console.log(comment);
   return res.status(201).json({ newCommentId: comment._id });
 };

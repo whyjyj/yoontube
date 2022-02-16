@@ -1,3 +1,4 @@
+
 const videoContainer = document.getElementById("videoContainer");
 const form = document.getElementById("commentForm");
 
@@ -18,7 +19,7 @@ const addComment = (text, id) => {
   videoComments.prepend(newComment);
 };
 
-const handleSubmit = async event => {
+const handleSubmit = async (event) => {
   event.preventDefault();
   const textarea = form.querySelector("textarea");
   const text = textarea.value;
@@ -29,9 +30,9 @@ const handleSubmit = async event => {
   const response = await fetch(`/api/videos/${videoId}/comment`, {
     method: "POST",
     headers: {
-      "Content-Type": "application/json"
+      "Content-Type": "application/json",
     },
-    body: JSON.stringify({ text })
+    body: JSON.stringify({ text }),
   });
   if (response.status === 201) {
     textarea.value = "";
