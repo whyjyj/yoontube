@@ -16,7 +16,7 @@
 - [ ] Video Recording
 - [x] Search Video
 - [ ] AJAX Comments
-- [ ] View Count
+- [X] View Count
 
 ### Theory
 
