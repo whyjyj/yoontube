@@ -136,3 +136,5 @@
 ### 2022.02.16
 
 - Video metadata loading 지연으로 인한 bug fix
+- Flash Messages
+- Logout시 session destroy -> 유지로 변경 b/c flash message랑 충돌
