@@ -140,3 +140,7 @@
 - Flash message, Logout시 session destroy 충돌 문제 해결(session.destroy -> null)
 - Video edit 적용 안 되던 bug fix(controller에서 video exist -> findbyId)
 - Comment 작성 안 되던 것과 관련된 bug 모두 fix -> [PACK] regenerator-runtime 설치
+
+### 2022.02.24
+
+- Handling other urls

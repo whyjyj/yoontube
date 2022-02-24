@@ -35,5 +35,6 @@ app.use("/", rootRouter);
 app.use("/videos", videoRouter);
 app.use("/users", userRouter);
 app.use("/api", apiRouter);
+app.get("/*", (req, res) => res.redirect("/"));
 
 export default app;
