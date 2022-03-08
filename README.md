@@ -13,10 +13,10 @@
 ### Videos
 
 - [x] Video Upload
-- [ ] Video Recording
+- [x] Video Recording
 - [x] Search Video
-- [ ] AJAX Comments
-- [X] View Count
+- [x] AJAX Comments
+- [x] View Count
 
 ### Theory
 
@@ -144,3 +144,7 @@
 ### 2022.02.24
 
 - Handling other urls
+
+### 2022.03.08
+
+- Recording Video
