@@ -155,4 +155,4 @@
 - Download Recorded Video
 - Transcode Video
 - Download Transcoded Video
-- Thumbnail
+- Thumbnail & Thumbnail Upload
