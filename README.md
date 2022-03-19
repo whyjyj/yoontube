@@ -14,6 +14,7 @@
 
 - [x] Video Upload
 - [x] Video Recording
+- [x] Video Download
 - [x] Search Video
 - [x] AJAX Comments
 - [x] View Count
@@ -148,3 +149,7 @@
 ### 2022.03.08
 
 - Recording Video
+
+### 2022.03.19
+
+- Download Recorded Video
