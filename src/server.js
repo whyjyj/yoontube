@@ -31,6 +31,7 @@ app.use(flash());
 app.use(localsMiddleware);
 app.use("/uploads", express.static("uploads"));
 app.use("/static", express.static("assets"));
+app.use("/convert", express.static("node_modules/@ffmpeg/core/dist"));
 app.use("/", rootRouter);
 app.use("/videos", videoRouter);
 app.use("/users", userRouter);
