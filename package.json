@@ -1,16 +1,18 @@
 {
   "name": "yoontube",
   "version": "1.0.0",
-  "description": "Studying nodejs",
+  "description": "Studying nodejs, express",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/WhyJYJ/wetube.git"
   },
   "scripts": {
     "start": "node build/init.js",
-    "build:server": "babel src -d build",
+    "build": "npm run build:server && npm run build:assets",
+    "build:server": "babel src -d build --ignore src/client",
+    "build:assets": "webpack --mode=production",
     "dev:server": "nodemon",
-    "dev:assets": "webpack"
+    "dev:assets": "webpack --mode=development -w"
   },
   "author": "whyj_yj",
   "license": "MIT",
